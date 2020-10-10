@@ -206,7 +206,7 @@
 				<key>device-id</key>
 				<data>mD4AAA==</data>
 				<key>framebuffer-con2-enable</key>
-                		<data>AQAAAA==</data>
+				<data>AQAAAA==</data>
 				<key>framebuffer-con2-type</key>
 				<data>AAgAAA==</data>
 				<key>framebuffer-patch-enable</key>
@@ -888,7 +888,7 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>XXXXXXXXXXXXXXX</string>
+			<string>C02008300GUPHCD1H</string>
 			<key>ROM</key>
 			<data>HTA/Ydnl</data>
 			<key>SpoofVendor</key>
@@ -896,9 +896,9 @@
 			<key>SystemProductName</key>
 			<string>iMac20,1</string>
 			<key>SystemSerialNumber</key>
-			<string>XXXXXXXXXXXX</string>
+			<string>C02C9VZ1PN5T</string>
 			<key>SystemUUID</key>
-			<string>XXXXXXX-XXXX-XXXX-XXXX-XXXXXXX</string>
+			<string>E0020952-3DB7-4541-A982-6F8C2B9582CB</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
